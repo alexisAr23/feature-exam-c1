@@ -1,0 +1,5 @@
+Link trello: https://trello.com/b/lrwuI1Bw/aplicacion-movil-para-la-gestion-y-control-de-vuelos
+
+Link figma:  https://www.figma.com/proto/qRUlSFNc9KDhxq8gO91LLc/Aplicaci%C3%B3n-M%C3%B3vil-para-la-Gesti%C3%B3n-y-Control-de-Vuelos?node-id=2-3&p=f&t=btw7KXvaRtsn7xPr-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
+
+Enlace GitHub : https://github.com/alexisAr23/feature-exam-c1
